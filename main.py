@@ -8,7 +8,7 @@ cur= conn.cursor()
 
 def main():
 	while(True):
-		print("Μεντουδάκης - Δοκιμάζοντας την SQL") #Κυρίως μενού
+		print("Δοκιμάζοντας την POSTGRESQL") #Κυρίως μενού
 		print("1. Εκτέλεση Query")
 		print("2. Εισαγωγὴ Δεδομένων")
 		print("3. Έξοδος")
